@@ -1,3 +1,13 @@
+kimmo-icon-theme (0.3-1) focal; urgency=medium
+
+  * Add gnome-disks.svg and disk-utility
+  * Remove unneeded changelog line
+
+  * Control: add vcs browser/git
+  * add missing space in description
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 17 Apr 2020 17:53:35 -0400
+
 kimmo-icon-theme (0.2-1) focal; urgency=medium
 
   * Welcome to Focal Fossa!
@@ -6,7 +16,6 @@ kimmo-icon-theme (0.2-1) focal; urgency=medium
 
 kimmo-icon-theme (0.1-1) eoan; urgency=medium
 
-  [ Joshua Peisach ]
   * Initial release
 
  -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 14 Oct 2019 17:38:53 -0400

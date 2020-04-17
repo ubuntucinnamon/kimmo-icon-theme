@@ -5,12 +5,14 @@ Priority: important
 Build-Depends: debhelper (>= 12)
 Rules-Requires-Root: no
 Standards-Version: 4.4.0
-Homepage: https://github.com/ubuntucinnamon/kimmo-icon-theme/
+Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/kimmo-icon-theme
+Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/kimmo-icon-theme.git
+Homepage: https://github.com/Ubuntu-Cinnamon-Remix
 
 Package: kimmo-icon-theme
 Architecture: all
 Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
 Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
  The Kimmo Icon Theme is a mixture of the Arc/Numix theme,
- colored orange, looking great on all desktops.The theme has an
+ colored orange, looking great on all desktops. The theme has an
  associated gtk theme as well: kimmo-gtk-theme
