@@ -12,7 +12,46 @@ Homepage: https://github.com/Ubuntu-Cinnamon-Remix
 Package: kimmo-icon-theme
 Architecture: all
 Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
+Provides: kimmo-icon-theme-dark, kimmo-icon-theme-light
 Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
  The Kimmo Icon Theme is a mixture of the Arc/Numix theme,
  colored orange, looking great on all desktops. The theme has an
  associated gtk theme as well: kimmo-gtk-theme
+
+Package: kimmo-icon-theme-all
+Architecture: all
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
+Provides: kimmo-icon-theme-dark, kimmo-icon-theme-light, kimmo-rx-icon-theme
+Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
+ The Kimmo Icon Theme is a mixture of the Arc/Numix theme,
+ colored orange, looking great on all desktops. The theme has an
+ associated gtk theme as well: kimmo-gtk-theme.
+ .
+ This package provides you with all of the theme variants, including
+ the RX theme.
+
+Package: kimmo-icon-theme-dark
+Architecture: all
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
+Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
+ The Kimmo Icon Theme is a mixture of the Arc/Numix theme,
+ colored orange, looking great on all desktops. The edition contains
+ a dark version of the icon theme. The package also has a GTK theme:
+ kimmo-gtk-theme-dark.
+
+Package: kimmo-icon-theme-light
+Architecture: all
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
+Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
+ The Kimmo Icon Theme is a mixture of the Arc/Numix theme,
+ colored orange, looking great on all desktops. The edition contains
+ a light version of the icon theme. The package also has a GTK theme:
+ kimmo-gtk-theme-light.
+
+Package: kimmo-rx-icon-theme
+Architecture: all
+Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
+Description: Oomox colored Kimmo Iocn Theme from Arc and Numix Base
+ The Kimmo RX Icon Theme is an Oomox colored version of the original Arc
+ and Numix themes the original Kimmo theme is built on. This theme will
+ give you a more modern and simpler feel of the original icon theme.
