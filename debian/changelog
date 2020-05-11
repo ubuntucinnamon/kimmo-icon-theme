@@ -1,9 +1,16 @@
+kimmo-icon-theme (0.5.2-1) groovy; urgency=medium
+
+  * Add cinnamon-layout.svg to hicolor icons
+  * Fix changelog typo
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 11 May 2020 15:24:52 -0400
+
 kimmo-icon-theme (0.5.1-1) groovy; urgency=medium
 
   * Add cinnamon-layout.svg icons
   * add gnome-disks.svg to RX icon theme
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2002 14:06:45 -0400
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 14:06:45 -0400
 
 kimmo-icon-theme (0.5-1) groovy; urgency=medium
 
