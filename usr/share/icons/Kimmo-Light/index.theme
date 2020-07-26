@@ -3,7 +3,7 @@ Name=Kimmo-Light
 
 Comment=Icon theme from Numix Project
 
-Inherits=gnome,hicolor
+Inherits=Humanity,gnome,hicolor
 
 Example=folder
 
