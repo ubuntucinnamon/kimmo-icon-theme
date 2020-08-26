@@ -1,3 +1,9 @@
+kimmo-icon-theme (20.10-1) groovy; urgency=medium
+
+  * Groovy rebuild for feature freeze
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Aug 2020 12:56:47 -0400
+
 kimmo-icon-theme (0.6-1) focal; urgency=medium
 
   * Remove RX Theme
@@ -7,40 +13,40 @@ kimmo-icon-theme (0.6-1) focal; urgency=medium
 
   * Remove d/compat for debhelper-compat
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 26 Jul 2020 14:32:45 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 26 Jul 2020 14:32:45 -0400
 
 kimmo-icon-theme (0.5.3-1) groovy; urgency=medium
 
   * Repeal cinnamon-layout.svg icon-breaks package
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 11 May 2020 19:20:07 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 11 May 2020 19:20:07 -0400
 
 kimmo-icon-theme (0.5.2-1) groovy; urgency=medium
 
   * Add cinnamon-layout.svg to hicolor icons
   * Fix changelog typo
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 11 May 2020 15:24:52 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 11 May 2020 15:24:52 -0400
 
 kimmo-icon-theme (0.5.1-1) groovy; urgency=medium
 
   * Add cinnamon-layout.svg icons
   * add gnome-disks.svg to RX icon theme
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 14:06:45 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 10 May 2020 14:06:45 -0400
 
 kimmo-icon-theme (0.5-1) groovy; urgency=medium
 
   * Add RX Icon Theme
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 09 May 2020 21:14:01 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 09 May 2020 21:14:01 -0400
 
 kimmo-icon-theme (0.4-1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
   * Update Standards-Version to 4.5.0
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 13:04:06 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 13:04:06 -0400
 
 kimmo-icon-theme (0.3-1) focal; urgency=medium
 
@@ -50,16 +56,16 @@ kimmo-icon-theme (0.3-1) focal; urgency=medium
   * Control: add vcs browser/git
   * add missing space in description
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 17 Apr 2020 17:53:35 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 17 Apr 2020 17:53:35 -0400
 
 kimmo-icon-theme (0.2-1) focal; urgency=medium
 
   * Welcome to Focal Fossa!
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 24 Dec 2019 17:13:28 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 24 Dec 2019 17:13:28 -0500
 
 kimmo-icon-theme (0.1-1) eoan; urgency=medium
 
   * Initial release
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 14 Oct 2019 17:38:53 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 14 Oct 2019 17:38:53 -0400
